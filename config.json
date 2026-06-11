@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "bank-account-simulator",
+      "title": "Bank Account Simulator",
+      "description": "Use classes to build a bank account model with deposit and withdrawal logic.",
+      "path": "assignments/bank-account-simulator",
+      "dueDate": "2026-07-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
